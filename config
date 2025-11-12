@@ -1,0 +1,21 @@
+{
+  "app_version": "1.0.0",
+  "minimum_version": "1.0.0",
+  "force_update_enabled": false,
+  "force_update_title": "Update Required",
+  "force_update_message": "Please update to the latest version to continue using the app.",
+  "force_update_url": "https://play.google.com/store/apps/details?id=com.moonlite",
+  "maintenance_mode": false,
+  "maintenance_message": "Moonlite is currently under maintenance. Please try again later.",
+  "features": {
+    "ads_enabled": true,
+    "exclusive_content": true,
+    "verification_system": true
+  },
+  "limits": {
+    "max_message_length": 2000,
+    "max_channel_name_length": 50,
+    "max_bio_length": 200
+  },
+  "updated_at": "2024-11-13T04:36:00Z"
+}
