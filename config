@@ -1,7 +1,7 @@
 {
   "app_version": "1.0.0",
   "minimum_version": "1.0.0",
-  "force_update_enabled": false,
+  "force_update_enabled": true,
   "allow_skip": false,
   "update_title": "Update Required",
   "update_message": "Please update to the latest version to continue using Moonlite with new features and security improvements.",
