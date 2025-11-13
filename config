@@ -32,8 +32,8 @@
   },
   
   "privacy": {
-    "privacy_policy_url": "https://moonlite.app/privacy",
-    "terms_of_service_url": "https://moonlite.app/terms",
+    "privacy_policy_url": "https://raw.githubusercontent.com/abhirajdeveloperedu/privacy/refs/heads/main/privacy",
+    "terms_of_service_url": "https://raw.githubusercontent.com/abhirajdeveloperedu/privacy/refs/heads/main/terms",
     "contact_email": "support@moonlite.app",
     "show_privacy_in_signup": true,
     "require_privacy_acceptance": true
