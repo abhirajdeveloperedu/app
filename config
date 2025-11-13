@@ -2,20 +2,94 @@
   "app_version": "1.0.0",
   "minimum_version": "1.0.0",
   "force_update_enabled": false,
-  "force_update_title": "Update Required",
-  "force_update_message": "Please update to the latest version to continue using Moonlite.",
-  "force_update_url": "https://play.google.com/store/apps/details?id=com.moonlite",
+  "allow_skip": false,
+  "update_title": "Update Required",
+  "update_message": "Please update to the latest version to continue using Moonlite with new features and security improvements.",
+  "update_url": "https://play.google.com/store/apps/details?id=com.moonlite",
+  "update_button_text": "Update Now",
+  "skip_button_text": "Skip for Now",
+  "update_features": [
+    "🎨 New premium dark theme",
+    "🔒 Enhanced security features",
+    "⚡ Performance improvements",
+    "🐛 Bug fixes and stability"
+  ],
+  
   "maintenance_mode": false,
-  "maintenance_message": "Moonlite is currently under maintenance. Please try again later.",
+  "maintenance_message": "Moonlite is currently under maintenance. We'll be back shortly!",
+  
+  "ads": {
+    "enabled": true,
+    "banner_ads_enabled": true,
+    "rewarded_ads_enabled": true,
+    "banner_ad_unit_id": "ca-app-pub-1696973331222677/6296128843",
+    "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/3294275575",
+    "show_banner_in_chat_list": true,
+    "show_banner_in_dm_chat": true,
+    "show_banner_in_channel_view": true,
+    "show_banner_in_wallet": true,
+    "banner_position_in_chat": "bottom"
+  },
+  
+  "privacy": {
+    "privacy_policy_url": "https://moonlite.app/privacy",
+    "terms_of_service_url": "https://moonlite.app/terms",
+    "contact_email": "support@moonlite.app",
+    "show_privacy_in_signup": true,
+    "require_privacy_acceptance": true
+  },
+  
   "features": {
     "ads_enabled": true,
     "exclusive_content": true,
-    "verification_system": true
+    "verification_system": true,
+    "channels_enabled": true,
+    "dm_enabled": true,
+    "wallet_enabled": true,
+    "image_sharing": true,
+    "channel_creation": true
   },
+  
   "limits": {
-    "max_message_length": 2000,
+    "max_message_length": 5000,
     "max_channel_name_length": 50,
-    "max_bio_length": 200
+    "max_bio_length": 200,
+    "max_username_length": 30,
+    "max_display_name_length": 50,
+    "max_channel_description_length": 500,
+    "max_image_size_mb": 5,
+    "initial_coins": 10,
+    "ad_reward_coins": 1
   },
-  "updated_at": "2024-11-13T04:37:00Z"
+  
+  "channels": {
+    "default_retention_hours": 24,
+    "free_retention_hours": 24,
+    "premium_retention_options": [48, 168, 720],
+    "max_follower_count_display": 999999
+  },
+  
+  "messages": {
+    "delivered_cleanup_hours": 1,
+    "undelivered_expiry_days": 7,
+    "enable_auto_cleanup": true
+  },
+  
+  "ui": {
+    "theme": "dark",
+    "primary_color": "#1a73e8",
+    "accent_color": "#4CAF50",
+    "show_verification_badges": true,
+    "show_last_seen": true
+  },
+  
+  "notifications": {
+    "enabled": true,
+    "dm_notifications": true,
+    "channel_notifications": true,
+    "system_notifications": true
+  },
+  
+  "updated_at": "2024-11-13T08:35:00Z",
+  "config_version": "1.0.0"
 }
