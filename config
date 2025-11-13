@@ -20,7 +20,7 @@
   
   "ads": {
     "enabled": true,
-    "banner_ads_enabled": true,
+    "banner_ads_enabled": false,
     "rewarded_ads_enabled": true,
     "banner_ad_unit_id": "ca-app-pub-1696973331222677/6296128843",
     "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/3294275575",
