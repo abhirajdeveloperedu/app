@@ -58,7 +58,7 @@
     "max_display_name_length": 50,
     "max_channel_description_length": 500,
     "max_image_size_mb": 5,
-    "initial_coins": 10,
+    "initial_coins": 0,
     "ad_reward_coins": 1
   },
   
