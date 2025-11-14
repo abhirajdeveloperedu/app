@@ -23,7 +23,11 @@
     "banner_ads_enabled": true,
     "rewarded_ads_enabled": true,
     "banner_ad_unit_id": "ca-app-pub-1696973331222677/6296128843",
-    "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/5522404547",
+    "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/3294275575",
+    "unity_enabled": true,
+    "unity_game_id": "5985297",
+    "unity_rewarded_id": "rewarded",
+    "unity_banner_id": "ban",
     "show_banner_in_chat_list": true,
     "show_banner_in_dm_chat": true,
     "show_banner_in_channel_view": true,
@@ -32,8 +36,8 @@
   },
   
   "privacy": {
-    "privacy_policy_url": "https://raw.githubusercontent.com/abhirajdeveloperedu/privacy/refs/heads/main/privacy",
-    "terms_of_service_url": "https://raw.githubusercontent.com/abhirajdeveloperedu/privacy/refs/heads/main/terms",
+    "privacy_policy_url": "https://moonlite.app/privacy",
+    "terms_of_service_url": "https://moonlite.app/terms",
     "contact_email": "support@moonlite.app",
     "show_privacy_in_signup": true,
     "require_privacy_acceptance": true
@@ -58,7 +62,7 @@
     "max_display_name_length": 50,
     "max_channel_description_length": 500,
     "max_image_size_mb": 5,
-    "initial_coins": 0,
+    "initial_coins": 10,
     "ad_reward_coins": 1
   },
   
