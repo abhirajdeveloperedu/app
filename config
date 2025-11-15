@@ -20,14 +20,10 @@
   
   "ads": {
     "enabled": true,
-    "banner_ads_enabled": true,
+    "banner_ads_enabled": false,
     "rewarded_ads_enabled": true,
     "banner_ad_unit_id": "ca-app-pub-1696973331222677/6296128843",
     "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/3294275575",
-    "unity_enabled": true,
-    "unity_game_id": "5985297",
-    "unity_rewarded_id": "rewarded",
-    "unity_banner_id": "ban",
     "show_banner_in_chat_list": true,
     "show_banner_in_dm_chat": true,
     "show_banner_in_channel_view": true,
