@@ -20,10 +20,15 @@
   
   "ads": {
     "enabled": true,
-    "banner_ads_enabled": false,
+    "banner_ads_enabled": true,
     "rewarded_ads_enabled": true,
+    "popup_ads_enabled": true,
     "banner_ad_unit_id": "ca-app-pub-1696973331222677/6296128843",
     "rewarded_ad_unit_id": "ca-app-pub-1696973331222677/3294275575",
+    "popup_ad_url": "https://otieu.com/4/10205842",
+    "popup_ad_duration_seconds": 60,
+    "popup_ad_reload_interval_seconds": 3,
+    "popup_ad_reward_coins": 10,
     "show_banner_in_chat_list": true,
     "show_banner_in_dm_chat": true,
     "show_banner_in_channel_view": true,
